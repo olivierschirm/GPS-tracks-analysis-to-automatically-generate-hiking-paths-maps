@@ -1,0 +1,84 @@
+###Intersection evaluation###
+Acceptation Distance = 10m
+Precision =  36.84 %
+Recall =  26.92 %
+FScore =  31.11 %
+Accuracy =  5.54 m
+
+###Segment evalution###
+Precision =  87.88 %
+Recall =  65.17 %
+FScore =  74.84 %
+Accuracy =  27.58 m
+Standard deviation =  58.76 m
+Correctness =  114.99999999999999 %
+
+
+
+###Intersection evaluation###
+Acceptation Distance = 20m
+Precision =  68.42 %
+Recall =  50.0 %
+FScore =  57.78 %
+Accuracy =  10.01 m
+
+###Segment evalution###
+Precision =  87.88 %
+Recall =  65.17 %
+FScore =  74.84 %
+Accuracy =  27.58 m
+Standard deviation =  58.76 m
+Correctness =  114.99999999999999 %
+
+
+
+
+###Intersection evaluation###
+Acceptation Distance = 30m
+Precision =  84.21 %
+Recall =  61.54 %
+FScore =  71.11 %
+Accuracy =  12.75 m
+
+###Segment evalution###
+Precision =  87.88 %
+Recall =  65.17 %
+FScore =  74.84 %
+Accuracy =  27.58 m
+Standard deviation =  58.76 m
+Correctness =  114.99999999999999 %
+
+
+
+
+###Intersection evaluation###
+Acceptation Distance = 40m
+Precision =  86.84 %
+Recall =  63.46 %
+FScore =  73.33 %
+Accuracy =  13.28 m
+
+###Segment evalution###
+Precision =  87.88 %
+Recall =  65.17 %
+FScore =  74.84 %
+Accuracy =  27.58 m
+Standard deviation =  58.76 m
+Correctness =  114.99999999999999 %
+
+
+
+###Intersection evaluation###
+Acceptation Distance = 50m
+Precision =  86.84 %
+Recall =  63.46 %
+FScore =  73.33 %
+Accuracy =  13.28 m
+
+###Segment evalution###
+Precision =  87.88 %
+Recall =  65.17 %
+FScore =  74.84 %
+Accuracy =  27.58 m
+Standard deviation =  58.76 m
+Correctness =  114.99999999999999 %

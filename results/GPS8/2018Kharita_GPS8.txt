@@ -1,0 +1,46 @@
+←[35m###Intersection evaluation###←[0m   theta = 40     seedradius = 20
+←[32mAcceptation Distance = 10m←[0m
+Precision =  19.05 %
+Recall =  20.18 %
+FScore =  19.6 %
+Accuracy =  6.59 m
+
+←[35m###Intersection evaluation###←[0m
+←[32mAcceptation Distance = 20m←[0m
+Precision =  37.23 %
+Recall =  39.45 %
+FScore =  38.31 %
+Accuracy =  9.98 m
+
+←[35m###Intersection evaluation###←[0m
+←[32mAcceptation Distance = 30m←[0m
+Precision =  41.56 %
+Recall =  44.04 %
+FScore =  42.76 %
+Accuracy =  11.52 m
+
+←[35m###Intersection evaluation###←[0m
+←[32mAcceptation Distance = 40m←[0m
+Precision =  42.86 %
+Recall =  45.41 %
+FScore =  44.1 %
+Accuracy =  12.27 m
+
+←[35m###Intersection evaluation###←[0m
+←[32mAcceptation Distance = 50m←[0m
+Precision =  45.89 %
+Recall =  48.62 %
+FScore =  47.22 %
+Accuracy =  14.4 m
+
+
+
+
+
+		
+←[35m###Segment evalution###←[0m
+Precision =  45.49 %
+Recall =  76.53 %
+FScore =  57.06 %
+Accuracy =  12.17 m
+Standard deviation =  23.38 m

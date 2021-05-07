@@ -1,0 +1,48 @@
+←[35m###Intersection evaluation###←[0m      Aerasize = 30     iteration = 6
+←[32mAcceptation Distance = 10m←[0m
+Precision =  68.89 %
+Recall =  71.1 %
+FScore =  69.98 %
+Accuracy =  5.91 m
+
+←[35m###Intersection evaluation###←[0m
+←[32mAcceptation Distance = 20m←[0m
+Precision =  83.56 %
+Recall =  86.24 %
+FScore =  84.88 %
+Accuracy =  7.26 m
+
+
+←[35m###Intersection evaluation###←[0m
+←[32mAcceptation Distance = 30m←[0m
+Precision =  87.56 %
+Recall =  90.37 %
+FScore =  88.94 %
+Accuracy =  8.02 m
+
+
+←[35m###Intersection evaluation###←[0m
+←[32mAcceptation Distance = 40m←[0m
+Precision =  88.89 %
+Recall =  91.74 %
+FScore =  90.29 %
+Accuracy =  8.36 m
+
+
+←[35m###Intersection evaluation###←[0m
+←[32mAcceptation Distance = 50m←[0m
+Precision =  88.89 %
+Recall =  91.74 %
+FScore =  90.29 %
+Accuracy =  8.36 m
+
+
+
+
+←[35m###Segment evalution###←[0m
+Precision =  90.78 %
+Recall =  93.89 %
+FScore =  92.31 %
+Accuracy =  4.95 m
+Standard deviation =  5.24 m
+Correctness =  0.0 %

@@ -1,0 +1,55 @@
+###Intersection evaluation###
+Acceptation Distance = 10m
+Precision =  2.51 %       
+Recall =  44.23 %
+FScore =  4.75 %
+Accuracy =  6.55 m        
+
+
+###Intersection evaluation###
+Acceptation Distance = 20m
+Precision =  4.04 %       
+Recall =  71.15 %
+FScore =  7.65 %
+Accuracy =  9.01 m  
+
+
+
+
+###Intersection evaluation###
+Acceptation Distance = 30m
+Precision =  4.26 %
+Recall =  75.0 %
+FScore =  8.06 %
+Accuracy =  9.88 m
+
+
+
+
+###Intersection evaluation###
+Acceptation Distance = 40m
+Precision =  4.37 %
+Recall =  76.92 %
+FScore =  8.27 %
+Accuracy =  10.43 m
+
+
+
+###Intersection evaluation###
+Acceptation Distance = 50m
+Precision =  4.59 %
+Recall =  80.77 %
+FScore =  8.69 %
+Accuracy =  12.09 m
+
+
+
+
+
+###Segment evalution###
+Precision =  4.09 %
+Recall =  85.39 %
+FScore =  7.81 %
+Accuracy =  21.88 m
+Standard deviation =  29.1 m
+Correctness =  0.0 % 
