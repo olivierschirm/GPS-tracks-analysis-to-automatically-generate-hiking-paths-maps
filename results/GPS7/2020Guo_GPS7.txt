@@ -1,0 +1,51 @@
+←[35m###Intersection evaluation###←[0m              resampleInterval = 10; cellLength = 1; sigma2 = 3; epslon = 0.05;
+←[32mAcceptation Distance = 10m←[0m
+Precision =  32.77 %
+Recall =  26.61 %
+FScore =  29.37 %
+Accuracy =  5.77 m
+
+←[35m###Intersection evaluation###←[0m
+←[32mAcceptation Distance = 20m←[0m
+Precision =  54.8 %
+Recall =  44.5 %
+FScore =  49.12 %
+Accuracy =  8.9 m
+
+←[35m###Intersection evaluation###←[0m
+←[32mAcceptation Distance = 30m←[0m
+Precision =  64.41 %
+Recall =  52.29 %
+FScore =  57.72 %
+Accuracy =  11.16 m
+
+
+←[35m###Intersection evaluation###←[0m
+←[32mAcceptation Distance = 40m←[0m
+Precision =  64.41 %
+Recall =  52.29 %
+FScore =  57.72 %
+Accuracy =  11.16 m
+
+
+←[35m###Intersection evaluation###←[0m
+←[32mAcceptation Distance = 50m←[0m
+Precision =  65.54 %
+Recall =  53.21 %
+FScore =  58.73 %
+Accuracy =  11.69 m
+
+
+
+
+
+
+
+
+←[35m###Segment evalution###←[0m
+Precision =  74.6 %
+Recall =  68.95 %
+FScore =  71.66 %
+Accuracy =  9.3 m
+Standard deviation =  14.56 m
+

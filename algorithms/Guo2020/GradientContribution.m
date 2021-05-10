@@ -1,0 +1,10 @@
+function gradient = GradientContribution(density,traj,cellLen)
+pointNum = size(traj,1);
+gradient = zeros(pointNum,2);
+deltaxy = traj - floor(traj);
+u1 = density(:,1).*(1-deltaxy(:,1)) + density(:,2).*deltaxy(:,1);
+u2 = density(:,3).*(1-deltaxy(:,1)) + density(:,4).*deltaxy(:,1);
+w1 = (density(:,2)-density(:,1)).*(1-deltaxy(:,2));
+w2 = (density(:,4)-density(:,3)).*deltaxy(:,2);
+gradient(:,1) = (w1+w2)/cellLen;
+gradient(:,2) = (u2-u1)/cellLen;

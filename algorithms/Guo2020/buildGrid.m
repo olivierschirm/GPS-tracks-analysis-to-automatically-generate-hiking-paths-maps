@@ -1,0 +1,11 @@
+function [xg,yg] = buildGrid(traj,cellLen)
+minxy = cellfun(@(traj) min(traj,[],1),traj,'Uni',0);
+maxxy = cellfun(@(traj) max(traj,[],1),traj,'Uni',0);
+minII = cell2mat(minxy');
+maxII = cell2mat(maxxy');
+xMin = min(minII(1:2:end));
+yMin = min(minII(2:2:end));
+xMax = max(maxII(1:2:end));
+yMax = max(maxII(2:2:end));
+xg = (xMin-2*cellLen):cellLen:(xMax+2*cellLen);
+yg = (yMin-2*cellLen):cellLen:(yMax+2*cellLen);
