@@ -20,7 +20,7 @@ for segment in segments :
         if pp == len(segment) - 1 : last = None
         else : last = p + 1
         
-        resultfile.write(str(p) + ','  + str(point[1]) + ',' + str(point[0]) + ',6000000000,' + str(first) + ',' + str(last) + '\n')
+        resultfile.write(str(p) + ','  + str(point[0]) + ',' + str(point[1]) + ',6000000000,' + str(first) + ',' + str(last) + '\n')
 
         p = p + 1
         pp = pp + 1
